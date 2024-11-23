@@ -318,6 +318,7 @@ body.login {
     object-fit: cover;
     object-position: center;
     filter: brightness(0.8);
+    overflow-x:hidden;
 }
 
 .detail-desc {
