@@ -103,7 +103,7 @@ body.login {
     border: none;
     border-radius: 20px;
     width: 120px;
-    height:70px;
+    height:70;
     cursor: pointer;
 }
 
