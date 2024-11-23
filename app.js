@@ -7,7 +7,7 @@ mobile.addEventListener("click",function(){
     mobileLink.classList.toggle("active");
 })
 
-//close view when click
+
 mobileLink.addEventListener("click",function(){
     const menuBars = document.querySelector("is-active");
     if(window.innerwidth<=768 && menuBars) {
